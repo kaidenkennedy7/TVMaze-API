@@ -1,0 +1,20 @@
+body {
+	margin: 10px;
+	background-color: aliceblue;
+}
+
+h1 {
+	font-family: 'Bungee', cursive;
+	text-align: center;
+	color: rgb(0, 100, 145);
+	font-size: 5em;
+}
+
+.btn {
+	background-color: #5bc0de;
+	padding: 10px 20px;
+	font-size: 16px;
+	border-radius: 8px;
+	border: none;
+	opacity: 1;
+}
